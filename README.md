@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Computer Science at Stony Brook University!
 - 📫 How to reach me: linkevin2024@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy drawing and I started to learn coding last year 2023!
+- ⚡ Fun fact: I enjoy drawing and I started to learn coding 2023!
 # Lets move along this journey together!
 
 <!---

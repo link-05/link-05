@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Computer Science at Stony Brook University!
 - 📫 How to reach me: linkevin2024@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy drawing and I started to learn coding 2023!
-  Current Languages: Java, Python, HTML, CSS, Javascript, GDScript
+- ⚡ Current Languages: Java, Python, HTML, CSS, Javascript, GDScript
 # Let move along this journey together!
 
 <!---

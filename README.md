@@ -5,7 +5,7 @@
 - 📫 How to reach me: linkevin2024@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy drawing and I started to learn coding 2023!
-# Lets move along this journey together!
+# Let move along this journey together!
 
 <!---
 link-05/link-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

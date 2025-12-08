@@ -10,10 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 🎓 Computer Science Student @ Stony Brook University
 
-I am a passionate developer interested in **AI, Security, and Game Design**. I am excited to explore how code can bring static logic to life. I enjoy using code to build interactive experiences and solve complex technical challenges.
+I am a passionate developer interested in **AI, Security, and Game Design**. I enjoy using code to build interactive experiences and solve complex technical challenges.
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">]((https://www.linkedin.com/in/kevin-lin2024/))
-[<img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail">](mailto:linkevin2024@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-lin2024)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linkevin2024@gmail.com)
 
 </div>
 

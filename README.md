@@ -45,6 +45,16 @@ I am a passionate developer interested in **AI, Security, and Game Design**. I e
 
 ---
 
+### 🧱 3D Contribution View
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=link-05&theme=tokyonight" alt="Profile Details" />
+</div>
+
+---
+
+---
+
 ### 🌱 Currently Exploring
 - **Artificial Intelligence:** Learning the fundamentals of machine learning.
 - **Security:** Exploring cybersecurity concepts and secure coding practices.

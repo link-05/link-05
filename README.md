@@ -22,30 +22,26 @@ I am a passionate developer interested in **AI, Security, and Game Design**. I e
 
 ### 🛠️ Languages & Tools
 
-**Core:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-**Web Development:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-**Game Dev & Security:**
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine&logoColor=%23478cbf)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Kalilinux-555555?style=flat&logo=kalilinux&logoColor=white)
+<div align="center">
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://godotengine.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>
+  <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
+  <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <br/>
+  <br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+</div>
 
 ---
-
-### 📊 My GitHub Stats
+### 🏆 Achievements
 
 <div align="center">
-
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=link-05&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=link-05&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=link-05&theme=flat&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="link-05" />
+  </a>
 </div>
 
 ---

@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Computer Science at Stony Brook University!
 - 📫 How to reach me: linkevin2024@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Current Languages: Java, Python, HTML, CSS, Javascript, GDScript
+- ⚡ Current Languages: Java, Python, HTML, CSS, Javascript, GDScript, Lua
 # Let move along this journey together!
 
 <!---

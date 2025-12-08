@@ -34,24 +34,15 @@ I am a passionate developer interested in **AI, Security, and Game Design**. I e
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 </div>
 
----
-### 🏆 Achievements
+### 🐍 My Contribution Snake
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=link-05&theme=flat&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="link-05" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/link-05/link-05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/link-05/link-05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/link-05/link-05/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
-
-### 🧱 3D Contribution View
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=link-05&theme=tokyonight" alt="Profile Details" />
-</div>
-
----
 
 ---
 

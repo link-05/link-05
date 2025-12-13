@@ -61,4 +61,4 @@ I am a passionate developer interested in **AI, Security, and Game Design**. I e
 - **Game Design:** Prototyping mechanics in Godot (Gdscript + Lua).
 
 ### ⚡ Fun Fact
-Crafting customized components for a codebase to fit specific needs is my favorite part.
+Crafting customized components for a codebase to fit specific needs is my favorite part of coding.
